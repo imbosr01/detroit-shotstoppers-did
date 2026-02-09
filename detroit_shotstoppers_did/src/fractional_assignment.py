@@ -257,8 +257,8 @@ def main() -> None:
         print(f"[fractional_assignment.py] Buffer rows with weight==1.0: {len(still_one)}")
         print(f"[fractional_assignment.py] Mean buffer weight: {buf_rows['weight'].mean():.6f}")
 
-    print("\n[fractional_assignment.py] cvi_area value counts (top 15):")
-    print(out_df["cvi_area"].value_counts().head(15))
+    print("\n[fractional_assignment.py] cvi_area value counts:")
+    print(out_df["cvi_area"].value_counts())
 
 
 if __name__ == "__main__":
@@ -267,3 +267,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"[fractional_assignment.py] ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
