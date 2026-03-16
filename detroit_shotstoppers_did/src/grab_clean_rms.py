@@ -74,7 +74,7 @@ DEFAULT_BOUNDARY_URL = (
 # Query building & fetching
 
 def build_where_clause() -> str:
-    # Same logic you used previously in grab_rms.py
+    # Same logic used previously to get close to city numbers
     return (
         "(incident_year >= 2021) AND ("
         "offense_description = 'NON-FATAL SHOOTING' OR "
