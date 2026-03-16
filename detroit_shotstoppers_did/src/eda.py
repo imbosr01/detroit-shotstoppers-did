@@ -204,7 +204,7 @@ def plot_monthly_counts_cvi_vs_non(
     # We add a vertical line once; Plotly applies it across facets
     fig_cvi.add_vline(x=program_start, line_width=2, line_dash="dash", line_color="red")
 
-    # Annotation: place once at top; line is the key visual cue anyway
+    # Annotation: place once at top
     fig_cvi.add_annotation(
         x=program_start, y=1.03, xref="x", yref="paper",
         text="ShotStopper", showarrow=False,
