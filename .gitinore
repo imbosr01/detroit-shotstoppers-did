@@ -1,0 +1,32 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data outputs (large files)
+data/
+outputs/
+*.csv
+*.parquet
+
+# Plot outputs
+*.html
+*.png
+*.jpg
+
+# Logs
+*.log
