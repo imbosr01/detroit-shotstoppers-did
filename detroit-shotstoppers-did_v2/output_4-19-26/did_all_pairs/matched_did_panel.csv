@@ -1,0 +1,883 @@
+pair_id,pair_cvi_name,zone_name,zone_type,treated,month,crime_count,calls_count,post,treated_post,log_calls,month_str,zone_id
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-01-01,2.0,19.0,0,0,2.996,2021-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-02-01,6.0,12.0,0,0,2.565,2021-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-03-01,0.0,10.0,0,0,2.398,2021-03,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-04-01,7.0,14.0,0,0,2.708,2021-04,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-05-01,2.0,20.0,0,0,3.045,2021-05,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-06-01,4.0,16.5,0,0,2.862,2021-06,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-07-01,0.0,14.0,0,0,2.708,2021-07,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-08-01,6.0,26.5,0,0,3.314,2021-08,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-09-01,2.0,21.0,0,0,3.091,2021-09,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-10-01,4.0,14.0,0,0,2.708,2021-10,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-11-01,1.0,9.0,0,0,2.303,2021-11,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2021-12-01,4.0,13.0,0,0,2.639,2021-12,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-01-01,0.0,7.0,0,0,2.079,2022-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-02-01,0.0,13.0,0,0,2.639,2022-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-03-01,2.0,17.0,0,0,2.89,2022-03,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-04-01,2.0,8.0,0,0,2.197,2022-04,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-05-01,2.0,20.0,0,0,3.045,2022-05,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-06-01,7.0,10.0,0,0,2.398,2022-06,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-07-01,3.0,17.0,0,0,2.89,2022-07,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-08-01,4.5,16.5,0,0,2.862,2022-08,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-09-01,1.0,12.0,0,0,2.565,2022-09,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-10-01,6.0,9.0,0,0,2.303,2022-10,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-11-01,2.0,18.0,0,0,2.944,2022-11,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2022-12-01,2.0,12.0,0,0,2.565,2022-12,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-01-01,1.0,15.5,0,0,2.803,2023-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-02-01,1.0,11.0,0,0,2.485,2023-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-03-01,3.0,22.0,0,0,3.135,2023-03,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-04-01,1.0,13.0,0,0,2.639,2023-04,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-05-01,3.0,13.0,0,0,2.639,2023-05,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-06-01,2.0,23.0,0,0,3.178,2023-06,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-07-01,2.0,18.0,0,0,2.944,2023-07,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-08-01,1.0,16.0,1,0,2.833,2023-08,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-09-01,1.0,13.0,1,0,2.639,2023-09,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-10-01,2.0,17.0,1,0,2.89,2023-10,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-11-01,1.0,22.0,1,0,3.135,2023-11,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2023-12-01,2.0,11.0,1,0,2.485,2023-12,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-01-01,1.0,15.0,1,0,2.773,2024-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-02-01,3.0,11.0,1,0,2.485,2024-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-03-01,3.5,12.0,1,0,2.565,2024-03,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-04-01,3.0,14.0,1,0,2.708,2024-04,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-05-01,0.0,17.0,1,0,2.89,2024-05,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-06-01,2.0,17.0,1,0,2.89,2024-06,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-07-01,1.0,8.0,1,0,2.197,2024-07,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-08-01,4.0,17.0,1,0,2.89,2024-08,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-09-01,2.0,14.0,1,0,2.708,2024-09,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-10-01,1.0,7.0,1,0,2.079,2024-10,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-11-01,2.0,13.0,1,0,2.639,2024-11,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2024-12-01,2.0,6.0,1,0,1.946,2024-12,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-01-01,1.0,8.0,1,0,2.197,2025-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-02-01,0.0,5.0,1,0,1.792,2025-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-03-01,0.0,8.0,1,0,2.197,2025-03,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-04-01,4.0,11.0,1,0,2.485,2025-04,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-05-01,0.0,12.0,1,0,2.565,2025-05,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-06-01,3.0,17.0,1,0,2.89,2025-06,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-07-01,4.0,12.0,1,0,2.565,2025-07,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-08-01,3.0,12.0,1,0,2.565,2025-08,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-09-01,0.0,7.0,1,0,2.079,2025-09,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-10-01,1.0,8.0,1,0,2.197,2025-10,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-11-01,0.0,6.0,1,0,1.946,2025-11,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2025-12-01,2.0,4.0,1,0,1.609,2025-12,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2026-01-01,0.0,6.0,1,0,1.946,2026-01,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2026-02-01,0.0,2.0,1,0,1.099,2026-02,CAND_0036
+PAIR_01,Detroit 300,CAND_0036,Control,0,2026-03-01,0.0,7.0,1,0,2.079,2026-03,CAND_0036
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-01-01,7.0,39.5,0,0,3.701,2021-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-02-01,4.0,28.5,0,0,3.384,2021-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-03-01,3.5,47.5,0,0,3.882,2021-03,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-04-01,7.5,43.5,0,0,3.795,2021-04,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-05-01,9.0,38.5,0,0,3.676,2021-05,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-06-01,8.5,37.0,0,0,3.638,2021-06,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-07-01,13.5,27.0,0,0,3.332,2021-07,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-08-01,6.0,36.5,0,0,3.624,2021-08,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-09-01,6.0,44.5,0,0,3.818,2021-09,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-10-01,4.0,37.5,0,0,3.651,2021-10,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-11-01,1.0,25.5,0,0,3.277,2021-11,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2021-12-01,3.0,36.5,0,0,3.624,2021-12,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-01-01,5.0,36.0,0,0,3.611,2022-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-02-01,6.0,16.0,0,0,2.833,2022-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-03-01,8.0,25.0,0,0,3.258,2022-03,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-04-01,7.5,18.0,0,0,2.944,2022-04,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-05-01,2.0,28.5,0,0,3.384,2022-05,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-06-01,5.0,21.5,0,0,3.114,2022-06,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-07-01,7.0,26.5,0,0,3.314,2022-07,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-08-01,4.0,36.0,0,0,3.611,2022-08,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-09-01,3.0,28.0,0,0,3.367,2022-09,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-10-01,5.0,34.0,0,0,3.555,2022-10,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-11-01,2.5,30.0,0,0,3.434,2022-11,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2022-12-01,4.0,22.5,0,0,3.157,2022-12,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-01-01,0.0,22.0,0,0,3.135,2023-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-02-01,6.0,40.0,0,0,3.714,2023-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-03-01,4.0,28.0,0,0,3.367,2023-03,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-04-01,6.5,25.0,0,0,3.258,2023-04,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-05-01,9.0,37.0,0,0,3.638,2023-05,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-06-01,8.0,30.0,0,0,3.434,2023-06,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-07-01,7.0,35.0,0,0,3.584,2023-07,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-08-01,3.0,40.5,1,1,3.726,2023-08,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-09-01,10.0,19.0,1,1,2.996,2023-09,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-10-01,1.0,23.0,1,1,3.178,2023-10,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-11-01,5.0,16.0,1,1,2.833,2023-11,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2023-12-01,4.0,19.5,1,1,3.02,2023-12,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-01-01,3.0,26.5,1,1,3.314,2024-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-02-01,3.0,19.0,1,1,2.996,2024-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-03-01,12.0,17.0,1,1,2.89,2024-03,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-04-01,2.0,22.0,1,1,3.135,2024-04,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-05-01,5.5,19.5,1,1,3.02,2024-05,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-06-01,4.0,21.5,1,1,3.114,2024-06,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-07-01,5.0,37.0,1,1,3.638,2024-07,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-08-01,4.0,15.5,1,1,2.803,2024-08,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-09-01,3.0,17.0,1,1,2.89,2024-09,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-10-01,1.0,11.5,1,1,2.526,2024-10,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-11-01,5.0,21.5,1,1,3.114,2024-11,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2024-12-01,3.5,21.0,1,1,3.091,2024-12,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-01-01,4.0,20.0,1,1,3.045,2025-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-02-01,5.0,8.0,1,1,2.197,2025-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-03-01,5.0,19.0,1,1,2.996,2025-03,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-04-01,5.0,16.5,1,1,2.862,2025-04,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-05-01,1.0,17.0,1,1,2.89,2025-05,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-06-01,7.0,30.5,1,1,3.45,2025-06,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-07-01,5.0,19.0,1,1,2.996,2025-07,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-08-01,3.0,22.0,1,1,3.135,2025-08,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-09-01,5.0,9.5,1,1,2.351,2025-09,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-10-01,4.0,20.0,1,1,3.045,2025-10,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-11-01,5.0,14.5,1,1,2.741,2025-11,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2025-12-01,2.0,10.0,1,1,2.398,2025-12,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2026-01-01,4.0,33.0,1,1,3.526,2026-01,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2026-02-01,2.0,11.0,1,1,2.485,2026-02,Detroit 300
+PAIR_01,Detroit 300,Detroit 300,CVI,1,2026-03-01,0.0,7.0,1,1,2.079,2026-03,Detroit 300
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-01-01,2.0,11.0,0,0,2.485,2021-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-02-01,0.0,6.0,0,0,1.946,2021-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-03-01,0.0,6.0,0,0,1.946,2021-03,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-04-01,0.0,10.0,0,0,2.398,2021-04,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-05-01,0.0,12.0,0,0,2.565,2021-05,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-06-01,4.0,14.0,0,0,2.708,2021-06,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-07-01,2.0,10.0,0,0,2.398,2021-07,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-08-01,2.0,8.0,0,0,2.197,2021-08,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-09-01,2.0,9.0,0,0,2.303,2021-09,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-10-01,1.0,14.0,0,0,2.708,2021-10,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-11-01,0.0,5.0,0,0,1.792,2021-11,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2021-12-01,0.0,4.0,0,0,1.609,2021-12,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-01-01,0.0,13.0,0,0,2.639,2022-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-02-01,2.0,3.0,0,0,1.386,2022-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-03-01,1.0,7.0,0,0,2.079,2022-03,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-04-01,4.0,8.0,0,0,2.197,2022-04,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-05-01,5.0,18.0,0,0,2.944,2022-05,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-06-01,7.0,20.0,0,0,3.045,2022-06,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-07-01,1.0,6.0,0,0,1.946,2022-07,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-08-01,2.0,12.0,0,0,2.565,2022-08,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-09-01,1.0,5.0,0,0,1.792,2022-09,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-10-01,3.0,7.0,0,0,2.079,2022-10,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-11-01,0.0,8.0,0,0,2.197,2022-11,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2022-12-01,2.0,11.0,0,0,2.485,2022-12,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-01-01,0.0,7.0,0,0,2.079,2023-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-02-01,0.0,4.0,0,0,1.609,2023-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-03-01,0.0,6.0,0,0,1.946,2023-03,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-04-01,0.0,4.0,0,0,1.609,2023-04,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-05-01,2.0,16.0,0,0,2.833,2023-05,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-06-01,0.0,11.0,0,0,2.485,2023-06,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-07-01,0.0,15.0,0,0,2.773,2023-07,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-08-01,0.0,15.0,1,0,2.773,2023-08,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-09-01,0.0,19.0,1,0,2.996,2023-09,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-10-01,0.0,8.0,1,0,2.197,2023-10,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-11-01,2.0,10.0,1,0,2.398,2023-11,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2023-12-01,0.0,12.0,1,0,2.565,2023-12,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-01-01,1.0,5.0,1,0,1.792,2024-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-02-01,0.0,5.0,1,0,1.792,2024-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-03-01,0.0,8.0,1,0,2.197,2024-03,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-04-01,2.0,6.0,1,0,1.946,2024-04,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-05-01,3.0,18.0,1,0,2.944,2024-05,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-06-01,3.0,10.0,1,0,2.398,2024-06,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-07-01,1.0,6.0,1,0,1.946,2024-07,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-08-01,2.0,1.0,1,0,0.693,2024-08,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-09-01,0.0,5.0,1,0,1.792,2024-09,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-10-01,0.0,4.0,1,0,1.609,2024-10,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-11-01,0.0,7.0,1,0,2.079,2024-11,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2024-12-01,0.0,5.0,1,0,1.792,2024-12,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-01-01,3.0,7.0,1,0,2.079,2025-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-02-01,1.0,9.0,1,0,2.303,2025-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-03-01,0.0,10.0,1,0,2.398,2025-03,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-04-01,1.0,5.0,1,0,1.792,2025-04,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-05-01,2.0,10.0,1,0,2.398,2025-05,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-06-01,3.0,11.0,1,0,2.485,2025-06,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-07-01,0.0,8.0,1,0,2.197,2025-07,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-08-01,0.0,14.0,1,0,2.708,2025-08,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-09-01,1.0,10.0,1,0,2.398,2025-09,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-10-01,2.0,1.0,1,0,0.693,2025-10,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-11-01,0.0,6.0,1,0,1.946,2025-11,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2025-12-01,0.0,9.0,1,0,2.303,2025-12,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2026-01-01,0.0,2.0,1,0,1.099,2026-01,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2026-02-01,2.0,5.0,1,0,1.792,2026-02,CAND_0269
+PAIR_02,Detroit Friends & Family,CAND_0269,Control,0,2026-03-01,0.0,4.0,1,0,1.609,2026-03,CAND_0269
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-01-01,3.0,46.5,0,0,3.861,2021-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-02-01,4.5,21.0,0,0,3.091,2021-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-03-01,2.0,65.0,0,0,4.19,2021-03,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-04-01,2.0,99.5,0,0,4.61,2021-04,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-05-01,5.0,97.5,0,0,4.59,2021-05,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-06-01,7.0,93.0,0,0,4.543,2021-06,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-07-01,14.0,94.0,0,0,4.554,2021-07,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-08-01,5.0,121.5,0,0,4.808,2021-08,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-09-01,7.0,90.0,0,0,4.511,2021-09,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-10-01,2.0,92.5,0,0,4.538,2021-10,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-11-01,8.0,69.0,0,0,4.248,2021-11,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2021-12-01,4.0,77.0,0,0,4.357,2021-12,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-01-01,5.0,87.0,0,0,4.477,2022-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-02-01,5.0,48.0,0,0,3.892,2022-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-03-01,8.0,63.0,0,0,4.159,2022-03,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-04-01,2.0,65.0,0,0,4.19,2022-04,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-05-01,10.0,63.0,0,0,4.159,2022-05,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-06-01,10.0,67.0,0,0,4.22,2022-06,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-07-01,6.0,75.0,0,0,4.331,2022-07,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-08-01,7.5,92.5,0,0,4.538,2022-08,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-09-01,5.0,64.0,0,0,4.174,2022-09,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-10-01,3.0,67.5,0,0,4.227,2022-10,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-11-01,2.0,83.0,0,0,4.431,2022-11,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2022-12-01,11.0,117.0,0,0,4.771,2022-12,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-01-01,5.0,223.5,0,0,5.414,2023-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-02-01,8.0,179.5,0,0,5.196,2023-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-03-01,4.0,98.0,0,0,4.595,2023-03,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-04-01,2.0,19.0,0,0,2.996,2023-04,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-05-01,3.0,24.0,0,0,3.219,2023-05,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-06-01,9.0,25.0,0,0,3.258,2023-06,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-07-01,5.0,21.0,0,0,3.091,2023-07,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-08-01,7.0,19.0,1,1,2.996,2023-08,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-09-01,8.0,15.0,1,1,2.773,2023-09,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-10-01,2.0,22.0,1,1,3.135,2023-10,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-11-01,2.0,19.0,1,1,2.996,2023-11,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2023-12-01,2.0,14.0,1,1,2.708,2023-12,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-01-01,5.0,16.0,1,1,2.833,2024-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-02-01,3.0,18.0,1,1,2.944,2024-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-03-01,4.5,8.0,1,1,2.197,2024-03,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-04-01,6.0,17.0,1,1,2.89,2024-04,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-05-01,10.0,20.0,1,1,3.045,2024-05,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-06-01,3.0,14.0,1,1,2.708,2024-06,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-07-01,2.0,12.0,1,1,2.565,2024-07,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-08-01,2.0,17.0,1,1,2.89,2024-08,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-09-01,0.0,14.0,1,1,2.708,2024-09,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-10-01,1.0,13.0,1,1,2.639,2024-10,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-11-01,3.0,10.0,1,1,2.398,2024-11,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2024-12-01,2.0,12.0,1,1,2.565,2024-12,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-01-01,5.0,15.0,1,1,2.773,2025-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-02-01,2.0,3.0,1,1,1.386,2025-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-03-01,3.0,10.0,1,1,2.398,2025-03,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-04-01,4.0,13.0,1,1,2.639,2025-04,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-05-01,1.0,15.0,1,1,2.773,2025-05,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-06-01,7.0,25.0,1,1,3.258,2025-06,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-07-01,5.0,15.0,1,1,2.773,2025-07,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-08-01,4.0,15.0,1,1,2.773,2025-08,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-09-01,1.0,11.0,1,1,2.485,2025-09,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-10-01,3.0,8.0,1,1,2.197,2025-10,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-11-01,5.0,3.0,1,1,1.386,2025-11,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2025-12-01,1.0,9.0,1,1,2.303,2025-12,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2026-01-01,1.0,8.0,1,1,2.197,2026-01,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2026-02-01,0.0,3.0,1,1,1.386,2026-02,Detroit Friends & Family
+PAIR_02,Detroit Friends & Family,Detroit Friends & Family,CVI,1,2026-03-01,0.0,3.0,1,1,1.386,2026-03,Detroit Friends & Family
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-01-01,1.0,10.0,0,0,2.398,2021-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-02-01,1.0,11.0,0,0,2.485,2021-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-03-01,2.0,8.0,0,0,2.197,2021-03,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-04-01,4.0,10.0,0,0,2.398,2021-04,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-05-01,4.0,12.0,0,0,2.565,2021-05,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-06-01,1.0,12.0,0,0,2.565,2021-06,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-07-01,3.0,5.0,0,0,1.792,2021-07,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-08-01,2.0,10.0,0,0,2.398,2021-08,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-09-01,3.0,8.0,0,0,2.197,2021-09,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-10-01,2.0,9.0,0,0,2.303,2021-10,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-11-01,1.0,8.0,0,0,2.197,2021-11,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2021-12-01,0.0,7.0,0,0,2.079,2021-12,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-01-01,1.0,7.0,0,0,2.079,2022-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-02-01,0.0,5.0,0,0,1.792,2022-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-03-01,1.0,4.0,0,0,1.609,2022-03,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-04-01,0.0,8.0,0,0,2.197,2022-04,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-05-01,3.0,15.0,0,0,2.773,2022-05,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-06-01,5.0,8.0,0,0,2.197,2022-06,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-07-01,1.0,6.0,0,0,1.946,2022-07,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-08-01,2.0,3.0,0,0,1.386,2022-08,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-09-01,1.0,11.0,0,0,2.485,2022-09,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-10-01,1.0,8.0,0,0,2.197,2022-10,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-11-01,0.0,10.0,0,0,2.398,2022-11,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2022-12-01,0.0,10.0,0,0,2.398,2022-12,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-01-01,0.0,9.0,0,0,2.303,2023-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-02-01,1.0,2.0,0,0,1.099,2023-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-03-01,0.0,4.0,0,0,1.609,2023-03,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-04-01,2.0,5.0,0,0,1.792,2023-04,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-05-01,0.0,13.0,0,0,2.639,2023-05,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-06-01,0.0,5.0,0,0,1.792,2023-06,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-07-01,0.0,8.0,0,0,2.197,2023-07,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-08-01,2.0,6.0,1,0,1.946,2023-08,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-09-01,3.0,9.0,1,0,2.303,2023-09,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-10-01,1.0,6.0,1,0,1.946,2023-10,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-11-01,0.0,6.0,1,0,1.946,2023-11,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2023-12-01,1.0,5.0,1,0,1.792,2023-12,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-01-01,0.0,3.0,1,0,1.386,2024-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-02-01,0.0,5.0,1,0,1.792,2024-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-03-01,1.0,2.0,1,0,1.099,2024-03,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-04-01,1.0,7.0,1,0,2.079,2024-04,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-05-01,0.0,8.0,1,0,2.197,2024-05,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-06-01,0.0,4.0,1,0,1.609,2024-06,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-07-01,2.0,12.0,1,0,2.565,2024-07,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-08-01,1.0,12.0,1,0,2.565,2024-08,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-09-01,1.0,6.0,1,0,1.946,2024-09,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-10-01,0.0,5.0,1,0,1.792,2024-10,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-11-01,0.0,4.0,1,0,1.609,2024-11,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2024-12-01,0.0,3.0,1,0,1.386,2024-12,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-01-01,0.0,7.0,1,0,2.079,2025-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-02-01,0.0,3.0,1,0,1.386,2025-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-03-01,0.0,2.0,1,0,1.099,2025-03,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-04-01,0.0,2.0,1,0,1.099,2025-04,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-05-01,2.0,1.0,1,0,0.693,2025-05,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-06-01,0.0,3.0,1,0,1.386,2025-06,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-07-01,1.0,8.0,1,0,2.197,2025-07,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-08-01,1.0,2.0,1,0,1.099,2025-08,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-09-01,3.0,5.0,1,0,1.792,2025-09,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-10-01,1.0,1.0,1,0,0.693,2025-10,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-11-01,0.0,3.0,1,0,1.386,2025-11,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2025-12-01,0.0,2.0,1,0,1.099,2025-12,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2026-01-01,1.0,4.0,1,0,1.609,2026-01,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2026-02-01,0.0,3.0,1,0,1.386,2026-02,CAND_0108
+PAIR_03,Detroit Peoples Community,CAND_0108,Control,0,2026-03-01,0.0,1.0,1,0,0.693,2026-03,CAND_0108
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-01-01,2.0,29.0,0,0,3.401,2021-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-02-01,3.0,40.0,0,0,3.714,2021-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-03-01,1.0,55.0,0,0,4.025,2021-03,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-04-01,4.0,81.0,0,0,4.407,2021-04,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-05-01,11.0,117.0,0,0,4.771,2021-05,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-06-01,5.0,75.0,0,0,4.331,2021-06,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-07-01,5.0,85.0,0,0,4.454,2021-07,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-08-01,4.0,91.0,0,0,4.522,2021-08,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-09-01,8.0,79.0,0,0,4.382,2021-09,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-10-01,6.0,76.0,0,0,4.344,2021-10,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-11-01,10.0,85.0,0,0,4.454,2021-11,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2021-12-01,5.0,61.0,0,0,4.127,2021-12,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-01-01,8.0,61.0,0,0,4.127,2022-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-02-01,2.0,49.0,0,0,3.912,2022-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-03-01,4.0,55.0,0,0,4.025,2022-03,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-04-01,3.0,80.0,0,0,4.394,2022-04,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-05-01,6.0,91.0,0,0,4.522,2022-05,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-06-01,6.0,74.0,0,0,4.317,2022-06,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-07-01,6.0,82.0,0,0,4.419,2022-07,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-08-01,4.0,71.0,0,0,4.277,2022-08,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-09-01,6.0,83.0,0,0,4.431,2022-09,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-10-01,5.0,79.0,0,0,4.382,2022-10,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-11-01,2.0,67.0,0,0,4.22,2022-11,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2022-12-01,6.0,85.0,0,0,4.454,2022-12,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-01-01,5.0,79.0,0,0,4.382,2023-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-02-01,4.0,78.0,0,0,4.369,2023-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-03-01,2.0,46.0,0,0,3.85,2023-03,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-04-01,1.0,23.0,0,0,3.178,2023-04,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-05-01,5.0,20.0,0,0,3.045,2023-05,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-06-01,2.0,29.0,0,0,3.401,2023-06,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-07-01,5.0,18.0,0,0,2.944,2023-07,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-08-01,4.0,24.0,1,1,3.219,2023-08,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-09-01,6.0,18.0,1,1,2.944,2023-09,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-10-01,3.0,18.0,1,1,2.944,2023-10,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-11-01,2.0,9.0,1,1,2.303,2023-11,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2023-12-01,2.0,24.0,1,1,3.219,2023-12,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-01-01,3.0,13.0,1,1,2.639,2024-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-02-01,1.0,11.0,1,1,2.485,2024-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-03-01,4.0,12.0,1,1,2.565,2024-03,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-04-01,6.0,12.0,1,1,2.565,2024-04,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-05-01,8.0,21.0,1,1,3.091,2024-05,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-06-01,5.0,27.0,1,1,3.332,2024-06,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-07-01,2.0,21.0,1,1,3.091,2024-07,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-08-01,1.0,12.0,1,1,2.565,2024-08,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-09-01,0.0,9.0,1,1,2.303,2024-09,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-10-01,6.0,9.0,1,1,2.303,2024-10,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-11-01,3.0,5.0,1,1,1.792,2024-11,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2024-12-01,5.0,14.0,1,1,2.708,2024-12,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-01-01,4.0,16.0,1,1,2.833,2025-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-02-01,3.0,7.0,1,1,2.079,2025-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-03-01,2.0,11.0,1,1,2.485,2025-03,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-04-01,8.0,11.0,1,1,2.485,2025-04,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-05-01,8.0,16.0,1,1,2.833,2025-05,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-06-01,2.0,18.0,1,1,2.944,2025-06,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-07-01,5.0,14.0,1,1,2.708,2025-07,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-08-01,4.0,16.0,1,1,2.833,2025-08,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-09-01,2.0,17.0,1,1,2.89,2025-09,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-10-01,1.0,8.0,1,1,2.197,2025-10,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-11-01,3.0,8.0,1,1,2.197,2025-11,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2025-12-01,0.0,11.0,1,1,2.485,2025-12,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2026-01-01,3.0,10.0,1,1,2.398,2026-01,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2026-02-01,2.0,8.0,1,1,2.197,2026-02,Detroit Peoples Community
+PAIR_03,Detroit Peoples Community,Detroit Peoples Community,CVI,1,2026-03-01,0.0,3.0,1,1,1.386,2026-03,Detroit Peoples Community
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-01-01,0.0,9.0,0,0,2.303,2021-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-02-01,1.0,7.0,0,0,2.079,2021-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-03-01,4.0,8.0,0,0,2.197,2021-03,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-04-01,1.0,7.0,0,0,2.079,2021-04,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-05-01,2.0,10.0,0,0,2.398,2021-05,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-06-01,1.0,12.0,0,0,2.565,2021-06,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-07-01,2.0,15.0,0,0,2.773,2021-07,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-08-01,1.0,11.0,0,0,2.485,2021-08,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-09-01,4.0,18.0,0,0,2.944,2021-09,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-10-01,2.0,17.0,0,0,2.89,2021-10,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-11-01,1.0,5.0,0,0,1.792,2021-11,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2021-12-01,3.0,6.0,0,0,1.946,2021-12,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-01-01,1.0,5.0,0,0,1.792,2022-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-02-01,1.0,5.0,0,0,1.792,2022-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-03-01,3.0,9.0,0,0,2.303,2022-03,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-04-01,1.0,6.0,0,0,1.946,2022-04,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-05-01,4.0,14.0,0,0,2.708,2022-05,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-06-01,2.0,11.0,0,0,2.485,2022-06,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-07-01,6.0,9.0,0,0,2.303,2022-07,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-08-01,3.0,10.0,0,0,2.398,2022-08,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-09-01,1.0,7.0,0,0,2.079,2022-09,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-10-01,1.0,10.0,0,0,2.398,2022-10,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-11-01,0.0,7.0,0,0,2.079,2022-11,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2022-12-01,0.0,9.0,0,0,2.303,2022-12,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-01-01,0.0,15.0,0,0,2.773,2023-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-02-01,2.0,12.0,0,0,2.565,2023-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-03-01,0.0,14.0,0,0,2.708,2023-03,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-04-01,0.0,7.0,0,0,2.079,2023-04,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-05-01,1.0,7.0,0,0,2.079,2023-05,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-06-01,2.0,9.0,0,0,2.303,2023-06,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-07-01,9.0,10.0,0,0,2.398,2023-07,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-08-01,0.0,14.0,1,0,2.708,2023-08,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-09-01,3.0,10.0,1,0,2.398,2023-09,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-10-01,0.0,6.0,1,0,1.946,2023-10,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-11-01,0.0,8.0,1,0,2.197,2023-11,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2023-12-01,0.0,9.0,1,0,2.303,2023-12,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-01-01,2.0,5.0,1,0,1.792,2024-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-02-01,1.0,6.0,1,0,1.946,2024-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-03-01,2.0,8.0,1,0,2.197,2024-03,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-04-01,1.0,5.0,1,0,1.792,2024-04,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-05-01,1.0,8.0,1,0,2.197,2024-05,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-06-01,3.0,13.0,1,0,2.639,2024-06,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-07-01,3.0,7.0,1,0,2.079,2024-07,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-08-01,0.0,9.0,1,0,2.303,2024-08,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-09-01,1.0,9.0,1,0,2.303,2024-09,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-10-01,0.0,5.0,1,0,1.792,2024-10,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-11-01,1.0,8.0,1,0,2.197,2024-11,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2024-12-01,0.0,4.0,1,0,1.609,2024-12,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-01-01,1.0,2.0,1,0,1.099,2025-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-02-01,1.0,2.0,1,0,1.099,2025-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-03-01,0.0,6.0,1,0,1.946,2025-03,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-04-01,1.0,4.0,1,0,1.609,2025-04,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-05-01,1.0,6.0,1,0,1.946,2025-05,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-06-01,0.0,7.0,1,0,2.079,2025-06,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-07-01,2.0,10.0,1,0,2.398,2025-07,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-08-01,1.0,4.0,1,0,1.609,2025-08,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-09-01,3.0,7.0,1,0,2.079,2025-09,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-10-01,1.0,4.0,1,0,1.609,2025-10,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-11-01,0.0,4.0,1,0,1.609,2025-11,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2025-12-01,0.0,6.0,1,0,1.946,2025-12,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2026-01-01,0.0,3.0,1,0,1.386,2026-01,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2026-02-01,1.0,5.0,1,0,1.792,2026-02,CAND_0213
+PAIR_04,Force Detroit,CAND_0213,Control,0,2026-03-01,0.0,3.0,1,0,1.386,2026-03,CAND_0213
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-01-01,4.0,29.0,0,0,3.401,2021-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-02-01,2.0,21.0,0,0,3.091,2021-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-03-01,4.0,50.0,0,0,3.932,2021-03,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-04-01,7.0,39.0,0,0,3.689,2021-04,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-05-01,10.0,55.0,0,0,4.025,2021-05,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-06-01,1.0,41.0,0,0,3.738,2021-06,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-07-01,6.0,43.0,0,0,3.784,2021-07,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-08-01,5.0,34.0,0,0,3.555,2021-08,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-09-01,7.0,50.0,0,0,3.932,2021-09,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-10-01,5.0,43.0,0,0,3.784,2021-10,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-11-01,3.0,34.0,0,0,3.555,2021-11,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2021-12-01,5.0,31.0,0,0,3.466,2021-12,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-01-01,2.0,28.0,0,0,3.367,2022-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-02-01,0.0,22.0,0,0,3.135,2022-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-03-01,2.0,50.0,0,0,3.932,2022-03,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-04-01,3.0,26.0,0,0,3.296,2022-04,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-05-01,5.0,38.0,0,0,3.664,2022-05,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-06-01,3.0,41.0,0,0,3.738,2022-06,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-07-01,3.0,26.0,0,0,3.296,2022-07,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-08-01,9.0,45.0,0,0,3.829,2022-08,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-09-01,3.0,43.0,0,0,3.784,2022-09,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-10-01,11.0,48.0,0,0,3.892,2022-10,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-11-01,6.0,23.0,0,0,3.178,2022-11,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2022-12-01,6.0,30.0,0,0,3.434,2022-12,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-01-01,3.0,46.0,0,0,3.85,2023-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-02-01,5.0,62.0,0,0,4.143,2023-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-03-01,2.0,94.0,0,0,4.554,2023-03,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-04-01,2.0,22.0,0,0,3.135,2023-04,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-05-01,5.0,25.0,0,0,3.258,2023-05,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-06-01,7.0,40.0,0,0,3.714,2023-06,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-07-01,6.0,37.0,0,0,3.638,2023-07,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-08-01,5.0,30.0,1,1,3.434,2023-08,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-09-01,5.0,8.0,1,1,2.197,2023-09,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-10-01,3.0,23.0,1,1,3.178,2023-10,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-11-01,1.0,7.0,1,1,2.079,2023-11,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2023-12-01,1.0,16.0,1,1,2.833,2023-12,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-01-01,3.0,17.0,1,1,2.89,2024-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-02-01,0.0,13.0,1,1,2.639,2024-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-03-01,0.0,22.0,1,1,3.135,2024-03,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-04-01,1.0,17.0,1,1,2.89,2024-04,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-05-01,5.0,24.0,1,1,3.219,2024-05,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-06-01,3.0,19.0,1,1,2.996,2024-06,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-07-01,1.0,14.0,1,1,2.708,2024-07,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-08-01,5.0,14.0,1,1,2.708,2024-08,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-09-01,3.0,20.0,1,1,3.045,2024-09,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-10-01,3.0,15.0,1,1,2.773,2024-10,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-11-01,0.0,18.0,1,1,2.944,2024-11,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2024-12-01,1.0,11.0,1,1,2.485,2024-12,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-01-01,4.0,16.0,1,1,2.833,2025-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-02-01,3.0,10.0,1,1,2.398,2025-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-03-01,1.0,17.0,1,1,2.89,2025-03,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-04-01,6.0,8.0,1,1,2.197,2025-04,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-05-01,2.0,10.0,1,1,2.398,2025-05,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-06-01,2.0,35.0,1,1,3.584,2025-06,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-07-01,1.0,22.0,1,1,3.135,2025-07,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-08-01,1.0,15.0,1,1,2.773,2025-08,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-09-01,1.0,20.0,1,1,3.045,2025-09,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-10-01,2.0,16.0,1,1,2.833,2025-10,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-11-01,3.0,13.0,1,1,2.639,2025-11,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2025-12-01,4.0,12.0,1,1,2.565,2025-12,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2026-01-01,1.0,16.0,1,1,2.833,2026-01,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2026-02-01,1.0,11.0,1,1,2.485,2026-02,Force Detroit
+PAIR_04,Force Detroit,Force Detroit,CVI,1,2026-03-01,0.0,2.0,1,1,1.099,2026-03,Force Detroit
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-01-01,0.0,12.0,0,0,2.565,2021-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-02-01,0.0,13.0,0,0,2.639,2021-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-03-01,1.0,9.0,0,0,2.303,2021-03,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-04-01,0.0,14.0,0,0,2.708,2021-04,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-05-01,1.0,11.0,0,0,2.485,2021-05,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-06-01,0.0,13.0,0,0,2.639,2021-06,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-07-01,1.0,11.0,0,0,2.485,2021-07,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-08-01,1.0,14.0,0,0,2.708,2021-08,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-09-01,0.0,10.0,0,0,2.398,2021-09,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-10-01,0.0,13.0,0,0,2.639,2021-10,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-11-01,0.0,9.0,0,0,2.303,2021-11,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2021-12-01,0.0,6.0,0,0,1.946,2021-12,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-01-01,0.0,5.0,0,0,1.792,2022-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-02-01,1.0,11.0,0,0,2.485,2022-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-03-01,0.0,16.0,0,0,2.833,2022-03,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-04-01,0.0,7.0,0,0,2.079,2022-04,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-05-01,0.0,10.0,0,0,2.398,2022-05,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-06-01,2.0,11.0,0,0,2.485,2022-06,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-07-01,1.0,17.0,0,0,2.89,2022-07,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-08-01,2.0,16.0,0,0,2.833,2022-08,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-09-01,2.0,17.0,0,0,2.89,2022-09,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-10-01,3.0,12.0,0,0,2.565,2022-10,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-11-01,2.0,10.0,0,0,2.398,2022-11,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2022-12-01,1.0,10.0,0,0,2.398,2022-12,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-01-01,2.0,7.0,0,0,2.079,2023-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-02-01,3.0,13.0,0,0,2.639,2023-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-03-01,0.0,6.0,0,0,1.946,2023-03,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-04-01,0.0,8.0,0,0,2.197,2023-04,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-05-01,2.0,9.0,0,0,2.303,2023-05,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-06-01,0.0,11.0,0,0,2.485,2023-06,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-07-01,0.0,6.0,0,0,1.946,2023-07,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-08-01,0.0,8.0,1,0,2.197,2023-08,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-09-01,2.0,11.0,1,0,2.485,2023-09,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-10-01,1.0,13.0,1,0,2.639,2023-10,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-11-01,0.0,4.0,1,0,1.609,2023-11,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2023-12-01,2.0,8.0,1,0,2.197,2023-12,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-01-01,0.0,4.0,1,0,1.609,2024-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-02-01,0.0,5.0,1,0,1.792,2024-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-03-01,0.0,10.0,1,0,2.398,2024-03,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-04-01,0.0,10.0,1,0,2.398,2024-04,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-05-01,1.0,5.0,1,0,1.792,2024-05,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-06-01,2.0,9.0,1,0,2.303,2024-06,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-07-01,1.0,11.0,1,0,2.485,2024-07,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-08-01,0.0,10.0,1,0,2.398,2024-08,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-09-01,0.0,10.0,1,0,2.398,2024-09,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-10-01,0.0,14.0,1,0,2.708,2024-10,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-11-01,0.0,10.0,1,0,2.398,2024-11,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2024-12-01,0.0,9.0,1,0,2.303,2024-12,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-01-01,0.0,6.0,1,0,1.946,2025-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-02-01,1.0,6.0,1,0,1.946,2025-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-03-01,0.0,1.0,1,0,0.693,2025-03,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-04-01,0.0,3.0,1,0,1.386,2025-04,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-05-01,3.0,5.0,1,0,1.792,2025-05,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-06-01,0.0,5.0,1,0,1.792,2025-06,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-07-01,0.0,9.0,1,0,2.303,2025-07,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-08-01,0.0,7.0,1,0,2.079,2025-08,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-09-01,2.0,10.0,1,0,2.398,2025-09,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-10-01,2.0,10.0,1,0,2.398,2025-10,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-11-01,1.0,9.0,1,0,2.303,2025-11,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2025-12-01,1.0,6.0,1,0,1.946,2025-12,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2026-01-01,0.0,4.0,1,0,1.609,2026-01,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2026-02-01,0.0,3.0,1,0,1.386,2026-02,CAND_0380
+PAIR_05,Live in Peace,CAND_0380,Control,0,2026-03-01,0.0,2.0,1,0,1.099,2026-03,CAND_0380
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-01-01,1.0,32.0,0,0,3.497,2021-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-02-01,1.0,30.0,0,0,3.434,2021-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-03-01,3.0,32.0,0,0,3.497,2021-03,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-04-01,10.0,32.0,0,0,3.497,2021-04,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-05-01,11.0,41.0,0,0,3.738,2021-05,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-06-01,7.0,43.0,0,0,3.784,2021-06,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-07-01,6.0,40.0,0,0,3.714,2021-07,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-08-01,7.0,39.0,0,0,3.689,2021-08,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-09-01,16.0,44.0,0,0,3.807,2021-09,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-10-01,6.0,40.0,0,0,3.714,2021-10,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-11-01,1.0,30.0,0,0,3.434,2021-11,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2021-12-01,4.0,49.0,0,0,3.912,2021-12,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-01-01,10.0,40.0,0,0,3.714,2022-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-02-01,6.0,25.0,0,0,3.258,2022-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-03-01,1.0,23.0,0,0,3.178,2022-03,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-04-01,3.0,29.0,0,0,3.401,2022-04,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-05-01,7.0,30.0,0,0,3.434,2022-05,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-06-01,11.0,38.0,0,0,3.664,2022-06,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-07-01,5.0,44.0,0,0,3.807,2022-07,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-08-01,6.0,27.0,0,0,3.332,2022-08,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-09-01,6.0,31.0,0,0,3.466,2022-09,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-10-01,6.0,36.0,0,0,3.611,2022-10,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-11-01,3.0,36.0,0,0,3.611,2022-11,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2022-12-01,3.0,30.0,0,0,3.434,2022-12,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-01-01,2.0,22.0,0,0,3.135,2023-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-02-01,3.0,21.0,0,0,3.091,2023-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-03-01,0.0,20.0,0,0,3.045,2023-03,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-04-01,4.0,38.0,0,0,3.664,2023-04,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-05-01,2.0,32.0,0,0,3.497,2023-05,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-06-01,4.0,39.0,0,0,3.689,2023-06,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-07-01,8.0,34.0,0,0,3.555,2023-07,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-08-01,4.0,18.0,1,1,2.944,2023-08,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-09-01,7.0,19.0,1,1,2.996,2023-09,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-10-01,4.0,17.0,1,1,2.89,2023-10,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-11-01,5.0,25.0,1,1,3.258,2023-11,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2023-12-01,6.0,22.0,1,1,3.135,2023-12,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-01-01,2.0,10.0,1,1,2.398,2024-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-02-01,5.0,8.0,1,1,2.197,2024-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-03-01,6.0,10.0,1,1,2.398,2024-03,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-04-01,6.0,14.0,1,1,2.708,2024-04,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-05-01,1.0,29.0,1,1,3.401,2024-05,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-06-01,9.0,23.0,1,1,3.178,2024-06,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-07-01,4.0,24.0,1,1,3.219,2024-07,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-08-01,6.0,24.0,1,1,3.219,2024-08,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-09-01,3.0,22.0,1,1,3.135,2024-09,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-10-01,10.0,23.0,1,1,3.178,2024-10,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-11-01,3.0,20.0,1,1,3.045,2024-11,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2024-12-01,3.0,18.0,1,1,2.944,2024-12,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-01-01,1.0,16.0,1,1,2.833,2025-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-02-01,1.0,8.0,1,1,2.197,2025-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-03-01,3.0,16.0,1,1,2.833,2025-03,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-04-01,2.0,16.0,1,1,2.833,2025-04,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-05-01,2.0,20.0,1,1,3.045,2025-05,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-06-01,5.0,22.0,1,1,3.135,2025-06,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-07-01,9.0,30.0,1,1,3.434,2025-07,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-08-01,6.0,20.0,1,1,3.045,2025-08,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-09-01,2.0,20.0,1,1,3.045,2025-09,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-10-01,4.0,16.0,1,1,2.833,2025-10,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-11-01,6.0,12.0,1,1,2.565,2025-11,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2025-12-01,2.0,9.0,1,1,2.303,2025-12,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2026-01-01,5.0,8.0,1,1,2.197,2026-01,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2026-02-01,2.0,8.0,1,1,2.197,2026-02,Live in Peace
+PAIR_05,Live in Peace,Live in Peace,CVI,1,2026-03-01,1.0,5.0,1,1,1.792,2026-03,Live in Peace
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-01-01,1.0,18.0,0,0,2.944,2021-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-02-01,4.0,12.0,0,0,2.565,2021-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-03-01,1.0,26.0,0,0,3.296,2021-03,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-04-01,1.0,21.0,0,0,3.091,2021-04,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-05-01,3.0,11.0,0,0,2.485,2021-05,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-06-01,1.0,18.0,0,0,2.944,2021-06,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-07-01,3.0,23.0,0,0,3.178,2021-07,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-08-01,6.0,25.0,0,0,3.258,2021-08,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-09-01,3.0,12.0,0,0,2.565,2021-09,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-10-01,3.0,18.0,0,0,2.944,2021-10,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-11-01,0.0,11.0,0,0,2.485,2021-11,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2021-12-01,4.0,11.0,0,0,2.485,2021-12,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-01-01,0.0,12.0,0,0,2.565,2022-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-02-01,2.0,12.0,0,0,2.565,2022-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-03-01,2.0,13.0,0,0,2.639,2022-03,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-04-01,3.0,12.0,0,0,2.565,2022-04,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-05-01,5.0,11.0,0,0,2.485,2022-05,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-06-01,1.0,10.0,0,0,2.398,2022-06,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-07-01,4.0,16.0,0,0,2.833,2022-07,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-08-01,8.0,28.0,0,0,3.367,2022-08,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-09-01,2.0,10.0,0,0,2.398,2022-09,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-10-01,5.0,18.0,0,0,2.944,2022-10,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-11-01,1.0,14.0,0,0,2.708,2022-11,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2022-12-01,1.0,14.0,0,0,2.708,2022-12,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-01-01,1.0,18.0,0,0,2.944,2023-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-02-01,3.0,59.0,0,0,4.094,2023-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-03-01,1.0,55.0,0,0,4.025,2023-03,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-04-01,1.0,14.0,0,0,2.708,2023-04,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-05-01,1.0,17.0,0,0,2.89,2023-05,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-06-01,1.0,17.0,0,0,2.89,2023-06,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-07-01,1.0,13.0,0,0,2.639,2023-07,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-08-01,1.0,9.0,1,0,2.303,2023-08,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-09-01,1.0,8.0,1,0,2.197,2023-09,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-10-01,1.0,10.0,1,0,2.398,2023-10,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-11-01,0.0,6.0,1,0,1.946,2023-11,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2023-12-01,3.0,13.0,1,0,2.639,2023-12,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-01-01,2.0,8.0,1,0,2.197,2024-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-02-01,2.0,2.0,1,0,1.099,2024-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-03-01,0.0,4.0,1,0,1.609,2024-03,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-04-01,0.0,2.0,1,0,1.099,2024-04,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-05-01,0.0,6.0,1,0,1.946,2024-05,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-06-01,1.0,7.0,1,0,2.079,2024-06,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-07-01,1.0,12.0,1,0,2.565,2024-07,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-08-01,2.0,13.0,1,0,2.639,2024-08,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-09-01,0.0,9.0,1,0,2.303,2024-09,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-10-01,0.0,10.0,1,0,2.398,2024-10,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-11-01,0.0,8.0,1,0,2.197,2024-11,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2024-12-01,0.0,4.0,1,0,1.609,2024-12,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-01-01,2.0,9.0,1,0,2.303,2025-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-02-01,1.0,1.0,1,0,0.693,2025-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-03-01,0.0,2.0,1,0,1.099,2025-03,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-04-01,0.0,4.0,1,0,1.609,2025-04,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-05-01,1.0,11.0,1,0,2.485,2025-05,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-06-01,0.0,3.0,1,0,1.386,2025-06,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-07-01,2.0,7.0,1,0,2.079,2025-07,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-08-01,0.0,4.0,1,0,1.609,2025-08,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-09-01,0.0,3.0,1,0,1.386,2025-09,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-10-01,0.0,5.0,1,0,1.792,2025-10,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-11-01,1.0,7.0,1,0,2.079,2025-11,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2025-12-01,1.0,6.0,1,0,1.946,2025-12,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2026-01-01,1.0,6.0,1,0,1.946,2026-01,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2026-02-01,2.0,1.0,1,0,0.693,2026-02,CAND_0513
+PAIR_06,New Era CC,CAND_0513,Control,0,2026-03-01,0.0,3.0,1,0,1.386,2026-03,CAND_0513
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-01-01,2.0,30.5,0,0,3.45,2021-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-02-01,11.0,23.5,0,0,3.199,2021-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-03-01,2.5,35.5,0,0,3.597,2021-03,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-04-01,7.5,38.5,0,0,3.676,2021-04,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-05-01,9.0,40.5,0,0,3.726,2021-05,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-06-01,4.5,39.0,0,0,3.689,2021-06,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-07-01,10.5,36.0,0,0,3.611,2021-07,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-08-01,7.0,40.5,0,0,3.726,2021-08,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-09-01,9.0,30.5,0,0,3.45,2021-09,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-10-01,8.0,28.5,0,0,3.384,2021-10,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-11-01,5.0,25.5,0,0,3.277,2021-11,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2021-12-01,1.0,30.5,0,0,3.45,2021-12,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-01-01,5.0,23.0,0,0,3.178,2022-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-02-01,6.0,14.0,0,0,2.708,2022-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-03-01,4.0,27.0,0,0,3.332,2022-03,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-04-01,7.5,35.0,0,0,3.584,2022-04,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-05-01,7.0,45.5,0,0,3.839,2022-05,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-06-01,4.0,41.5,0,0,3.75,2022-06,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-07-01,8.0,48.5,0,0,3.902,2022-07,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-08-01,4.0,33.0,0,0,3.526,2022-08,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-09-01,10.0,31.0,0,0,3.466,2022-09,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-10-01,5.0,32.0,0,0,3.497,2022-10,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-11-01,4.5,24.0,0,0,3.219,2022-11,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2022-12-01,4.0,24.5,0,0,3.239,2022-12,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-01-01,6.0,36.0,0,0,3.611,2023-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-02-01,2.0,20.0,0,0,3.045,2023-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-03-01,4.0,22.0,0,0,3.135,2023-03,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-04-01,5.5,30.0,0,0,3.434,2023-04,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-05-01,7.0,31.0,0,0,3.466,2023-05,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-06-01,6.0,34.0,0,0,3.555,2023-06,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-07-01,10.0,27.0,0,0,3.332,2023-07,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-08-01,10.0,20.5,1,1,3.068,2023-08,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-09-01,5.0,29.0,1,1,3.401,2023-09,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-10-01,3.0,20.0,1,1,3.045,2023-10,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-11-01,3.0,16.0,1,1,2.833,2023-11,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2023-12-01,4.0,36.5,1,1,3.624,2023-12,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-01-01,2.0,35.5,1,1,3.597,2024-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-02-01,3.0,16.0,1,1,2.833,2024-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-03-01,2.0,19.0,1,1,2.996,2024-03,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-04-01,1.0,19.0,1,1,2.996,2024-04,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-05-01,1.5,23.5,1,1,3.199,2024-05,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-06-01,5.0,21.5,1,1,3.114,2024-06,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-07-01,8.0,35.0,1,1,3.584,2024-07,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-08-01,2.0,29.5,1,1,3.418,2024-08,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-09-01,4.0,12.0,1,1,2.565,2024-09,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-10-01,5.0,9.5,1,1,2.351,2024-10,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-11-01,6.0,17.5,1,1,2.918,2024-11,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2024-12-01,3.5,10.0,1,1,2.398,2024-12,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-01-01,3.0,24.0,1,1,3.219,2025-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-02-01,2.0,12.0,1,1,2.565,2025-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-03-01,1.0,22.0,1,1,3.135,2025-03,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-04-01,2.0,14.5,1,1,2.741,2025-04,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-05-01,7.0,25.0,1,1,3.258,2025-05,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-06-01,3.0,19.5,1,1,3.02,2025-06,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-07-01,5.0,18.0,1,1,2.944,2025-07,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-08-01,5.0,19.0,1,1,2.996,2025-08,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-09-01,5.0,10.5,1,1,2.442,2025-09,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-10-01,2.0,13.0,1,1,2.639,2025-10,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-11-01,1.0,12.5,1,1,2.603,2025-11,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2025-12-01,2.0,14.0,1,1,2.708,2025-12,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2026-01-01,3.0,17.0,1,1,2.89,2026-01,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2026-02-01,4.0,47.0,1,1,3.871,2026-02,New Era CC
+PAIR_06,New Era CC,New Era CC,CVI,1,2026-03-01,0.0,7.0,1,1,2.079,2026-03,New Era CC
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-01-01,2.0,3.0,0,0,1.386,2021-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-02-01,0.0,4.0,0,0,1.609,2021-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-03-01,0.0,5.0,0,0,1.792,2021-03,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-04-01,1.0,9.0,0,0,2.303,2021-04,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-05-01,0.0,12.0,0,0,2.565,2021-05,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-06-01,0.0,10.0,0,0,2.398,2021-06,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-07-01,1.0,21.0,0,0,3.091,2021-07,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-08-01,0.0,14.0,0,0,2.708,2021-08,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-09-01,0.0,6.0,0,0,1.946,2021-09,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-10-01,2.0,10.0,0,0,2.398,2021-10,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-11-01,0.0,2.0,0,0,1.099,2021-11,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2021-12-01,2.0,8.0,0,0,2.197,2021-12,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-01-01,0.0,4.0,0,0,1.609,2022-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-02-01,3.0,2.0,0,0,1.099,2022-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-03-01,2.0,4.0,0,0,1.609,2022-03,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-04-01,0.0,7.0,0,0,2.079,2022-04,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-05-01,1.0,10.0,0,0,2.398,2022-05,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-06-01,3.0,6.0,0,0,1.946,2022-06,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-07-01,0.0,6.0,0,0,1.946,2022-07,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-08-01,4.0,7.0,0,0,2.079,2022-08,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-09-01,1.0,3.0,0,0,1.386,2022-09,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-10-01,0.0,4.0,0,0,1.609,2022-10,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-11-01,0.0,4.0,0,0,1.609,2022-11,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2022-12-01,0.0,6.0,0,0,1.946,2022-12,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-01-01,1.0,8.0,0,0,2.197,2023-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-02-01,0.0,4.0,0,0,1.609,2023-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-03-01,0.0,10.0,0,0,2.398,2023-03,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-04-01,0.0,7.0,0,0,2.079,2023-04,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-05-01,0.0,9.0,0,0,2.303,2023-05,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-06-01,0.0,11.0,0,0,2.485,2023-06,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-07-01,1.0,6.0,0,0,1.946,2023-07,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-08-01,2.0,16.0,1,0,2.833,2023-08,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-09-01,1.0,7.0,1,0,2.079,2023-09,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-10-01,1.0,7.0,1,0,2.079,2023-10,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-11-01,0.0,7.0,1,0,2.079,2023-11,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2023-12-01,0.0,10.0,1,0,2.398,2023-12,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-01-01,0.0,5.0,1,0,1.792,2024-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-02-01,0.0,8.0,1,0,2.197,2024-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-03-01,0.0,5.0,1,0,1.792,2024-03,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-04-01,1.0,3.0,1,0,1.386,2024-04,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-05-01,0.0,5.0,1,0,1.792,2024-05,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-06-01,0.0,15.0,1,0,2.773,2024-06,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-07-01,1.0,10.0,1,0,2.398,2024-07,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-08-01,0.0,4.0,1,0,1.609,2024-08,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-09-01,2.0,16.0,1,0,2.833,2024-09,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-10-01,0.0,3.0,1,0,1.386,2024-10,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-11-01,1.0,8.0,1,0,2.197,2024-11,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2024-12-01,1.0,6.0,1,0,1.946,2024-12,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-01-01,0.0,10.0,1,0,2.398,2025-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-02-01,0.0,3.0,1,0,1.386,2025-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-03-01,0.0,6.0,1,0,1.946,2025-03,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-04-01,0.0,6.0,1,0,1.946,2025-04,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-05-01,0.0,7.0,1,0,2.079,2025-05,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-06-01,0.0,17.0,1,0,2.89,2025-06,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-07-01,3.0,11.0,1,0,2.485,2025-07,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-08-01,0.0,8.0,1,0,2.197,2025-08,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-09-01,1.0,3.0,1,0,1.386,2025-09,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-10-01,0.0,2.0,1,0,1.099,2025-10,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-11-01,0.0,11.0,1,0,2.485,2025-11,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2025-12-01,0.0,2.0,1,0,1.099,2025-12,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2026-01-01,0.0,3.0,1,0,1.386,2026-01,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2026-02-01,0.0,2.0,1,0,1.099,2026-02,CAND_0168
+PAIR_07,Team Pursuit,CAND_0168,Control,0,2026-03-01,1.0,1.0,1,0,0.693,2026-03,CAND_0168
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-01-01,8.0,41.5,0,0,3.75,2021-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-02-01,5.5,26.0,0,0,3.296,2021-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-03-01,5.0,159.0,0,0,5.075,2021-03,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-04-01,3.0,299.5,0,0,5.705,2021-04,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-05-01,9.0,281.5,0,0,5.644,2021-05,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-06-01,11.0,250.5,0,0,5.527,2021-06,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-07-01,10.0,195.0,0,0,5.278,2021-07,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-08-01,9.0,234.0,0,0,5.46,2021-08,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-09-01,10.0,197.0,0,0,5.288,2021-09,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-10-01,8.0,168.5,0,0,5.133,2021-10,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-11-01,14.0,155.0,0,0,5.05,2021-11,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2021-12-01,9.0,198.0,0,0,5.293,2021-12,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-01-01,2.0,137.0,0,0,4.927,2022-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-02-01,2.0,102.0,0,0,4.635,2022-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-03-01,6.0,152.0,0,0,5.03,2022-03,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-04-01,7.0,156.0,0,0,5.056,2022-04,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-05-01,9.0,189.0,0,0,5.247,2022-05,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-06-01,4.0,153.0,0,0,5.037,2022-06,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-07-01,13.0,143.0,0,0,4.97,2022-07,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-08-01,10.0,163.0,0,0,5.1,2022-08,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-09-01,4.0,122.0,0,0,4.812,2022-09,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-10-01,12.0,186.5,0,0,5.234,2022-10,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-11-01,2.0,158.0,0,0,5.069,2022-11,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2022-12-01,11.0,146.0,0,0,4.99,2022-12,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-01-01,6.0,234.0,0,0,5.46,2023-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-02-01,1.0,198.5,0,0,5.296,2023-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-03-01,1.0,104.0,0,0,4.654,2023-03,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-04-01,6.0,27.0,0,0,3.332,2023-04,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-05-01,10.0,30.0,0,0,3.434,2023-05,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-06-01,11.0,29.0,0,0,3.401,2023-06,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-07-01,6.0,19.0,0,0,2.996,2023-07,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-08-01,13.0,28.0,1,1,3.367,2023-08,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-09-01,11.0,29.0,1,1,3.401,2023-09,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-10-01,10.0,27.0,1,1,3.332,2023-10,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-11-01,5.0,18.0,1,1,2.944,2023-11,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2023-12-01,7.0,25.0,1,1,3.258,2023-12,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-01-01,6.0,13.0,1,1,2.639,2024-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-02-01,2.0,18.0,1,1,2.944,2024-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-03-01,3.0,14.0,1,1,2.708,2024-03,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-04-01,7.0,20.0,1,1,3.045,2024-04,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-05-01,10.0,29.0,1,1,3.401,2024-05,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-06-01,7.0,26.0,1,1,3.296,2024-06,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-07-01,14.0,18.0,1,1,2.944,2024-07,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-08-01,9.0,22.0,1,1,3.135,2024-08,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-09-01,0.0,14.0,1,1,2.708,2024-09,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-10-01,4.0,16.0,1,1,2.833,2024-10,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-11-01,2.0,9.0,1,1,2.303,2024-11,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2024-12-01,6.0,14.0,1,1,2.708,2024-12,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-01-01,4.0,10.0,1,1,2.398,2025-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-02-01,2.0,9.0,1,1,2.303,2025-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-03-01,4.0,14.0,1,1,2.708,2025-03,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-04-01,2.0,11.0,1,1,2.485,2025-04,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-05-01,6.0,10.0,1,1,2.398,2025-05,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-06-01,8.0,38.0,1,1,3.664,2025-06,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-07-01,5.0,23.0,1,1,3.178,2025-07,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-08-01,5.0,11.0,1,1,2.485,2025-08,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-09-01,5.0,14.0,1,1,2.708,2025-09,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-10-01,5.0,11.0,1,1,2.485,2025-10,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-11-01,2.0,6.0,1,1,1.946,2025-11,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2025-12-01,3.0,8.0,1,1,2.197,2025-12,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2026-01-01,0.0,11.0,1,1,2.485,2026-01,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2026-02-01,0.0,7.0,1,1,2.079,2026-02,Team Pursuit
+PAIR_07,Team Pursuit,Team Pursuit,CVI,1,2026-03-01,0.0,4.0,1,1,1.609,2026-03,Team Pursuit
