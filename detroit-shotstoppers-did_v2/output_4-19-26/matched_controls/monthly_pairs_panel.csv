@@ -1,0 +1,435 @@
+cvi_name,candidate_id,month,group,count
+Detroit 300,CAND_0036,2021-01-01,CVI,6
+Detroit 300,CAND_0036,2021-01-01,Matched Control,2
+Detroit 300,CAND_0036,2021-02-01,CVI,3
+Detroit 300,CAND_0036,2021-02-01,Matched Control,6
+Detroit 300,CAND_0036,2021-03-01,CVI,3
+Detroit 300,CAND_0036,2021-03-01,Matched Control,0
+Detroit 300,CAND_0036,2021-04-01,CVI,7
+Detroit 300,CAND_0036,2021-04-01,Matched Control,7
+Detroit 300,CAND_0036,2021-05-01,CVI,9
+Detroit 300,CAND_0036,2021-05-01,Matched Control,2
+Detroit 300,CAND_0036,2021-06-01,CVI,8
+Detroit 300,CAND_0036,2021-06-01,Matched Control,3
+Detroit 300,CAND_0036,2021-07-01,CVI,11
+Detroit 300,CAND_0036,2021-07-01,Matched Control,0
+Detroit 300,CAND_0036,2021-08-01,CVI,6
+Detroit 300,CAND_0036,2021-08-01,Matched Control,6
+Detroit 300,CAND_0036,2021-09-01,CVI,6
+Detroit 300,CAND_0036,2021-09-01,Matched Control,2
+Detroit 300,CAND_0036,2021-10-01,CVI,4
+Detroit 300,CAND_0036,2021-10-01,Matched Control,4
+Detroit 300,CAND_0036,2021-11-01,CVI,1
+Detroit 300,CAND_0036,2021-11-01,Matched Control,1
+Detroit 300,CAND_0036,2021-12-01,CVI,3
+Detroit 300,CAND_0036,2021-12-01,Matched Control,4
+Detroit 300,CAND_0036,2022-01-01,CVI,3
+Detroit 300,CAND_0036,2022-01-01,Matched Control,0
+Detroit 300,CAND_0036,2022-02-01,CVI,4
+Detroit 300,CAND_0036,2022-02-01,Matched Control,0
+Detroit 300,CAND_0036,2022-03-01,CVI,8
+Detroit 300,CAND_0036,2022-03-01,Matched Control,2
+Detroit 300,CAND_0036,2022-04-01,CVI,7
+Detroit 300,CAND_0036,2022-04-01,Matched Control,2
+Detroit 300,CAND_0036,2022-05-01,CVI,2
+Detroit 300,CAND_0036,2022-05-01,Matched Control,2
+Detroit 300,CAND_0036,2022-06-01,CVI,5
+Detroit 300,CAND_0036,2022-06-01,Matched Control,7
+Detroit 300,CAND_0036,2022-07-01,CVI,6
+Detroit 300,CAND_0036,2022-07-01,Matched Control,3
+Detroit 300,CAND_0036,2022-08-01,CVI,4
+Detroit 300,CAND_0036,2022-08-01,Matched Control,4
+Detroit 300,CAND_0036,2022-09-01,CVI,3
+Detroit 300,CAND_0036,2022-09-01,Matched Control,1
+Detroit 300,CAND_0036,2022-10-01,CVI,5
+Detroit 300,CAND_0036,2022-10-01,Matched Control,6
+Detroit 300,CAND_0036,2022-11-01,CVI,2
+Detroit 300,CAND_0036,2022-11-01,Matched Control,2
+Detroit 300,CAND_0036,2022-12-01,CVI,4
+Detroit 300,CAND_0036,2022-12-01,Matched Control,2
+Detroit 300,CAND_0036,2023-01-01,CVI,0
+Detroit 300,CAND_0036,2023-01-01,Matched Control,1
+Detroit 300,CAND_0036,2023-02-01,CVI,5
+Detroit 300,CAND_0036,2023-02-01,Matched Control,1
+Detroit 300,CAND_0036,2023-03-01,CVI,4
+Detroit 300,CAND_0036,2023-03-01,Matched Control,3
+Detroit 300,CAND_0036,2023-04-01,CVI,6
+Detroit 300,CAND_0036,2023-04-01,Matched Control,1
+Detroit 300,CAND_0036,2023-05-01,CVI,8
+Detroit 300,CAND_0036,2023-05-01,Matched Control,3
+Detroit 300,CAND_0036,2023-06-01,CVI,8
+Detroit 300,CAND_0036,2023-06-01,Matched Control,2
+Detroit 300,CAND_0036,2023-07-01,CVI,7
+Detroit 300,CAND_0036,2023-07-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2021-01-01,CVI,3
+Detroit Friends & Family,CAND_0269,2021-01-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2021-02-01,CVI,4
+Detroit Friends & Family,CAND_0269,2021-02-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2021-03-01,CVI,2
+Detroit Friends & Family,CAND_0269,2021-03-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2021-04-01,CVI,2
+Detroit Friends & Family,CAND_0269,2021-04-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2021-05-01,CVI,5
+Detroit Friends & Family,CAND_0269,2021-05-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2021-06-01,CVI,6
+Detroit Friends & Family,CAND_0269,2021-06-01,Matched Control,4
+Detroit Friends & Family,CAND_0269,2021-07-01,CVI,11
+Detroit Friends & Family,CAND_0269,2021-07-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2021-08-01,CVI,5
+Detroit Friends & Family,CAND_0269,2021-08-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2021-09-01,CVI,6
+Detroit Friends & Family,CAND_0269,2021-09-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2021-10-01,CVI,2
+Detroit Friends & Family,CAND_0269,2021-10-01,Matched Control,1
+Detroit Friends & Family,CAND_0269,2021-11-01,CVI,8
+Detroit Friends & Family,CAND_0269,2021-11-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2021-12-01,CVI,4
+Detroit Friends & Family,CAND_0269,2021-12-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2022-01-01,CVI,5
+Detroit Friends & Family,CAND_0269,2022-01-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2022-02-01,CVI,5
+Detroit Friends & Family,CAND_0269,2022-02-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2022-03-01,CVI,8
+Detroit Friends & Family,CAND_0269,2022-03-01,Matched Control,1
+Detroit Friends & Family,CAND_0269,2022-04-01,CVI,2
+Detroit Friends & Family,CAND_0269,2022-04-01,Matched Control,4
+Detroit Friends & Family,CAND_0269,2022-05-01,CVI,12
+Detroit Friends & Family,CAND_0269,2022-05-01,Matched Control,5
+Detroit Friends & Family,CAND_0269,2022-06-01,CVI,9
+Detroit Friends & Family,CAND_0269,2022-06-01,Matched Control,7
+Detroit Friends & Family,CAND_0269,2022-07-01,CVI,6
+Detroit Friends & Family,CAND_0269,2022-07-01,Matched Control,1
+Detroit Friends & Family,CAND_0269,2022-08-01,CVI,7
+Detroit Friends & Family,CAND_0269,2022-08-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2022-09-01,CVI,5
+Detroit Friends & Family,CAND_0269,2022-09-01,Matched Control,1
+Detroit Friends & Family,CAND_0269,2022-10-01,CVI,3
+Detroit Friends & Family,CAND_0269,2022-10-01,Matched Control,3
+Detroit Friends & Family,CAND_0269,2022-11-01,CVI,2
+Detroit Friends & Family,CAND_0269,2022-11-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2022-12-01,CVI,11
+Detroit Friends & Family,CAND_0269,2022-12-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2023-01-01,CVI,5
+Detroit Friends & Family,CAND_0269,2023-01-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2023-02-01,CVI,8
+Detroit Friends & Family,CAND_0269,2023-02-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2023-03-01,CVI,4
+Detroit Friends & Family,CAND_0269,2023-03-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2023-04-01,CVI,2
+Detroit Friends & Family,CAND_0269,2023-04-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2023-05-01,CVI,3
+Detroit Friends & Family,CAND_0269,2023-05-01,Matched Control,2
+Detroit Friends & Family,CAND_0269,2023-06-01,CVI,9
+Detroit Friends & Family,CAND_0269,2023-06-01,Matched Control,0
+Detroit Friends & Family,CAND_0269,2023-07-01,CVI,5
+Detroit Friends & Family,CAND_0269,2023-07-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2021-01-01,CVI,2
+Detroit Peoples Community,CAND_0108,2021-01-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2021-02-01,CVI,3
+Detroit Peoples Community,CAND_0108,2021-02-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2021-03-01,CVI,1
+Detroit Peoples Community,CAND_0108,2021-03-01,Matched Control,2
+Detroit Peoples Community,CAND_0108,2021-04-01,CVI,2
+Detroit Peoples Community,CAND_0108,2021-04-01,Matched Control,4
+Detroit Peoples Community,CAND_0108,2021-05-01,CVI,11
+Detroit Peoples Community,CAND_0108,2021-05-01,Matched Control,4
+Detroit Peoples Community,CAND_0108,2021-06-01,CVI,5
+Detroit Peoples Community,CAND_0108,2021-06-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2021-07-01,CVI,5
+Detroit Peoples Community,CAND_0108,2021-07-01,Matched Control,3
+Detroit Peoples Community,CAND_0108,2021-08-01,CVI,4
+Detroit Peoples Community,CAND_0108,2021-08-01,Matched Control,2
+Detroit Peoples Community,CAND_0108,2021-09-01,CVI,8
+Detroit Peoples Community,CAND_0108,2021-09-01,Matched Control,3
+Detroit Peoples Community,CAND_0108,2021-10-01,CVI,6
+Detroit Peoples Community,CAND_0108,2021-10-01,Matched Control,2
+Detroit Peoples Community,CAND_0108,2021-11-01,CVI,10
+Detroit Peoples Community,CAND_0108,2021-11-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2021-12-01,CVI,5
+Detroit Peoples Community,CAND_0108,2021-12-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2022-01-01,CVI,8
+Detroit Peoples Community,CAND_0108,2022-01-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2022-02-01,CVI,2
+Detroit Peoples Community,CAND_0108,2022-02-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2022-03-01,CVI,4
+Detroit Peoples Community,CAND_0108,2022-03-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2022-04-01,CVI,3
+Detroit Peoples Community,CAND_0108,2022-04-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2022-05-01,CVI,6
+Detroit Peoples Community,CAND_0108,2022-05-01,Matched Control,3
+Detroit Peoples Community,CAND_0108,2022-06-01,CVI,6
+Detroit Peoples Community,CAND_0108,2022-06-01,Matched Control,5
+Detroit Peoples Community,CAND_0108,2022-07-01,CVI,6
+Detroit Peoples Community,CAND_0108,2022-07-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2022-08-01,CVI,4
+Detroit Peoples Community,CAND_0108,2022-08-01,Matched Control,2
+Detroit Peoples Community,CAND_0108,2022-09-01,CVI,6
+Detroit Peoples Community,CAND_0108,2022-09-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2022-10-01,CVI,5
+Detroit Peoples Community,CAND_0108,2022-10-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2022-11-01,CVI,2
+Detroit Peoples Community,CAND_0108,2022-11-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2022-12-01,CVI,6
+Detroit Peoples Community,CAND_0108,2022-12-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2023-01-01,CVI,5
+Detroit Peoples Community,CAND_0108,2023-01-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2023-02-01,CVI,4
+Detroit Peoples Community,CAND_0108,2023-02-01,Matched Control,1
+Detroit Peoples Community,CAND_0108,2023-03-01,CVI,2
+Detroit Peoples Community,CAND_0108,2023-03-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2023-04-01,CVI,1
+Detroit Peoples Community,CAND_0108,2023-04-01,Matched Control,2
+Detroit Peoples Community,CAND_0108,2023-05-01,CVI,5
+Detroit Peoples Community,CAND_0108,2023-05-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2023-06-01,CVI,2
+Detroit Peoples Community,CAND_0108,2023-06-01,Matched Control,0
+Detroit Peoples Community,CAND_0108,2023-07-01,CVI,5
+Detroit Peoples Community,CAND_0108,2023-07-01,Matched Control,0
+Force Detroit,CAND_0213,2021-01-01,CVI,4
+Force Detroit,CAND_0213,2021-01-01,Matched Control,0
+Force Detroit,CAND_0213,2021-02-01,CVI,2
+Force Detroit,CAND_0213,2021-02-01,Matched Control,1
+Force Detroit,CAND_0213,2021-03-01,CVI,4
+Force Detroit,CAND_0213,2021-03-01,Matched Control,4
+Force Detroit,CAND_0213,2021-04-01,CVI,7
+Force Detroit,CAND_0213,2021-04-01,Matched Control,1
+Force Detroit,CAND_0213,2021-05-01,CVI,10
+Force Detroit,CAND_0213,2021-05-01,Matched Control,2
+Force Detroit,CAND_0213,2021-06-01,CVI,1
+Force Detroit,CAND_0213,2021-06-01,Matched Control,1
+Force Detroit,CAND_0213,2021-07-01,CVI,6
+Force Detroit,CAND_0213,2021-07-01,Matched Control,2
+Force Detroit,CAND_0213,2021-08-01,CVI,5
+Force Detroit,CAND_0213,2021-08-01,Matched Control,1
+Force Detroit,CAND_0213,2021-09-01,CVI,7
+Force Detroit,CAND_0213,2021-09-01,Matched Control,4
+Force Detroit,CAND_0213,2021-10-01,CVI,4
+Force Detroit,CAND_0213,2021-10-01,Matched Control,2
+Force Detroit,CAND_0213,2021-11-01,CVI,3
+Force Detroit,CAND_0213,2021-11-01,Matched Control,1
+Force Detroit,CAND_0213,2021-12-01,CVI,5
+Force Detroit,CAND_0213,2021-12-01,Matched Control,3
+Force Detroit,CAND_0213,2022-01-01,CVI,2
+Force Detroit,CAND_0213,2022-01-01,Matched Control,1
+Force Detroit,CAND_0213,2022-02-01,CVI,0
+Force Detroit,CAND_0213,2022-02-01,Matched Control,1
+Force Detroit,CAND_0213,2022-03-01,CVI,2
+Force Detroit,CAND_0213,2022-03-01,Matched Control,3
+Force Detroit,CAND_0213,2022-04-01,CVI,3
+Force Detroit,CAND_0213,2022-04-01,Matched Control,1
+Force Detroit,CAND_0213,2022-05-01,CVI,5
+Force Detroit,CAND_0213,2022-05-01,Matched Control,4
+Force Detroit,CAND_0213,2022-06-01,CVI,3
+Force Detroit,CAND_0213,2022-06-01,Matched Control,2
+Force Detroit,CAND_0213,2022-07-01,CVI,3
+Force Detroit,CAND_0213,2022-07-01,Matched Control,6
+Force Detroit,CAND_0213,2022-08-01,CVI,9
+Force Detroit,CAND_0213,2022-08-01,Matched Control,3
+Force Detroit,CAND_0213,2022-09-01,CVI,3
+Force Detroit,CAND_0213,2022-09-01,Matched Control,1
+Force Detroit,CAND_0213,2022-10-01,CVI,10
+Force Detroit,CAND_0213,2022-10-01,Matched Control,1
+Force Detroit,CAND_0213,2022-11-01,CVI,6
+Force Detroit,CAND_0213,2022-11-01,Matched Control,0
+Force Detroit,CAND_0213,2022-12-01,CVI,6
+Force Detroit,CAND_0213,2022-12-01,Matched Control,0
+Force Detroit,CAND_0213,2023-01-01,CVI,3
+Force Detroit,CAND_0213,2023-01-01,Matched Control,0
+Force Detroit,CAND_0213,2023-02-01,CVI,5
+Force Detroit,CAND_0213,2023-02-01,Matched Control,2
+Force Detroit,CAND_0213,2023-03-01,CVI,2
+Force Detroit,CAND_0213,2023-03-01,Matched Control,0
+Force Detroit,CAND_0213,2023-04-01,CVI,2
+Force Detroit,CAND_0213,2023-04-01,Matched Control,0
+Force Detroit,CAND_0213,2023-05-01,CVI,5
+Force Detroit,CAND_0213,2023-05-01,Matched Control,1
+Force Detroit,CAND_0213,2023-06-01,CVI,7
+Force Detroit,CAND_0213,2023-06-01,Matched Control,2
+Force Detroit,CAND_0213,2023-07-01,CVI,6
+Force Detroit,CAND_0213,2023-07-01,Matched Control,9
+Live in Peace,CAND_0380,2021-01-01,CVI,1
+Live in Peace,CAND_0380,2021-01-01,Matched Control,0
+Live in Peace,CAND_0380,2021-02-01,CVI,1
+Live in Peace,CAND_0380,2021-02-01,Matched Control,0
+Live in Peace,CAND_0380,2021-03-01,CVI,3
+Live in Peace,CAND_0380,2021-03-01,Matched Control,1
+Live in Peace,CAND_0380,2021-04-01,CVI,10
+Live in Peace,CAND_0380,2021-04-01,Matched Control,0
+Live in Peace,CAND_0380,2021-05-01,CVI,11
+Live in Peace,CAND_0380,2021-05-01,Matched Control,1
+Live in Peace,CAND_0380,2021-06-01,CVI,7
+Live in Peace,CAND_0380,2021-06-01,Matched Control,0
+Live in Peace,CAND_0380,2021-07-01,CVI,6
+Live in Peace,CAND_0380,2021-07-01,Matched Control,1
+Live in Peace,CAND_0380,2021-08-01,CVI,7
+Live in Peace,CAND_0380,2021-08-01,Matched Control,1
+Live in Peace,CAND_0380,2021-09-01,CVI,16
+Live in Peace,CAND_0380,2021-09-01,Matched Control,0
+Live in Peace,CAND_0380,2021-10-01,CVI,6
+Live in Peace,CAND_0380,2021-10-01,Matched Control,0
+Live in Peace,CAND_0380,2021-11-01,CVI,1
+Live in Peace,CAND_0380,2021-11-01,Matched Control,0
+Live in Peace,CAND_0380,2021-12-01,CVI,4
+Live in Peace,CAND_0380,2021-12-01,Matched Control,0
+Live in Peace,CAND_0380,2022-01-01,CVI,10
+Live in Peace,CAND_0380,2022-01-01,Matched Control,0
+Live in Peace,CAND_0380,2022-02-01,CVI,6
+Live in Peace,CAND_0380,2022-02-01,Matched Control,1
+Live in Peace,CAND_0380,2022-03-01,CVI,1
+Live in Peace,CAND_0380,2022-03-01,Matched Control,0
+Live in Peace,CAND_0380,2022-04-01,CVI,3
+Live in Peace,CAND_0380,2022-04-01,Matched Control,0
+Live in Peace,CAND_0380,2022-05-01,CVI,7
+Live in Peace,CAND_0380,2022-05-01,Matched Control,0
+Live in Peace,CAND_0380,2022-06-01,CVI,11
+Live in Peace,CAND_0380,2022-06-01,Matched Control,2
+Live in Peace,CAND_0380,2022-07-01,CVI,5
+Live in Peace,CAND_0380,2022-07-01,Matched Control,1
+Live in Peace,CAND_0380,2022-08-01,CVI,6
+Live in Peace,CAND_0380,2022-08-01,Matched Control,2
+Live in Peace,CAND_0380,2022-09-01,CVI,6
+Live in Peace,CAND_0380,2022-09-01,Matched Control,2
+Live in Peace,CAND_0380,2022-10-01,CVI,6
+Live in Peace,CAND_0380,2022-10-01,Matched Control,3
+Live in Peace,CAND_0380,2022-11-01,CVI,3
+Live in Peace,CAND_0380,2022-11-01,Matched Control,2
+Live in Peace,CAND_0380,2022-12-01,CVI,3
+Live in Peace,CAND_0380,2022-12-01,Matched Control,1
+Live in Peace,CAND_0380,2023-01-01,CVI,1
+Live in Peace,CAND_0380,2023-01-01,Matched Control,2
+Live in Peace,CAND_0380,2023-02-01,CVI,3
+Live in Peace,CAND_0380,2023-02-01,Matched Control,3
+Live in Peace,CAND_0380,2023-03-01,CVI,0
+Live in Peace,CAND_0380,2023-03-01,Matched Control,0
+Live in Peace,CAND_0380,2023-04-01,CVI,4
+Live in Peace,CAND_0380,2023-04-01,Matched Control,0
+Live in Peace,CAND_0380,2023-05-01,CVI,2
+Live in Peace,CAND_0380,2023-05-01,Matched Control,2
+Live in Peace,CAND_0380,2023-06-01,CVI,4
+Live in Peace,CAND_0380,2023-06-01,Matched Control,0
+Live in Peace,CAND_0380,2023-07-01,CVI,8
+Live in Peace,CAND_0380,2023-07-01,Matched Control,0
+New Era CC,CAND_0513,2021-01-01,CVI,1
+New Era CC,CAND_0513,2021-01-01,Matched Control,1
+New Era CC,CAND_0513,2021-02-01,CVI,9
+New Era CC,CAND_0513,2021-02-01,Matched Control,4
+New Era CC,CAND_0513,2021-03-01,CVI,2
+New Era CC,CAND_0513,2021-03-01,Matched Control,1
+New Era CC,CAND_0513,2021-04-01,CVI,7
+New Era CC,CAND_0513,2021-04-01,Matched Control,1
+New Era CC,CAND_0513,2021-05-01,CVI,9
+New Era CC,CAND_0513,2021-05-01,Matched Control,3
+New Era CC,CAND_0513,2021-06-01,CVI,3
+New Era CC,CAND_0513,2021-06-01,Matched Control,1
+New Era CC,CAND_0513,2021-07-01,CVI,10
+New Era CC,CAND_0513,2021-07-01,Matched Control,3
+New Era CC,CAND_0513,2021-08-01,CVI,7
+New Era CC,CAND_0513,2021-08-01,Matched Control,6
+New Era CC,CAND_0513,2021-09-01,CVI,9
+New Era CC,CAND_0513,2021-09-01,Matched Control,3
+New Era CC,CAND_0513,2021-10-01,CVI,8
+New Era CC,CAND_0513,2021-10-01,Matched Control,3
+New Era CC,CAND_0513,2021-11-01,CVI,5
+New Era CC,CAND_0513,2021-11-01,Matched Control,0
+New Era CC,CAND_0513,2021-12-01,CVI,1
+New Era CC,CAND_0513,2021-12-01,Matched Control,4
+New Era CC,CAND_0513,2022-01-01,CVI,4
+New Era CC,CAND_0513,2022-01-01,Matched Control,0
+New Era CC,CAND_0513,2022-02-01,CVI,5
+New Era CC,CAND_0513,2022-02-01,Matched Control,2
+New Era CC,CAND_0513,2022-03-01,CVI,3
+New Era CC,CAND_0513,2022-03-01,Matched Control,2
+New Era CC,CAND_0513,2022-04-01,CVI,7
+New Era CC,CAND_0513,2022-04-01,Matched Control,3
+New Era CC,CAND_0513,2022-05-01,CVI,7
+New Era CC,CAND_0513,2022-05-01,Matched Control,5
+New Era CC,CAND_0513,2022-06-01,CVI,4
+New Era CC,CAND_0513,2022-06-01,Matched Control,1
+New Era CC,CAND_0513,2022-07-01,CVI,8
+New Era CC,CAND_0513,2022-07-01,Matched Control,4
+New Era CC,CAND_0513,2022-08-01,CVI,4
+New Era CC,CAND_0513,2022-08-01,Matched Control,8
+New Era CC,CAND_0513,2022-09-01,CVI,10
+New Era CC,CAND_0513,2022-09-01,Matched Control,2
+New Era CC,CAND_0513,2022-10-01,CVI,4
+New Era CC,CAND_0513,2022-10-01,Matched Control,5
+New Era CC,CAND_0513,2022-11-01,CVI,4
+New Era CC,CAND_0513,2022-11-01,Matched Control,1
+New Era CC,CAND_0513,2022-12-01,CVI,4
+New Era CC,CAND_0513,2022-12-01,Matched Control,1
+New Era CC,CAND_0513,2023-01-01,CVI,6
+New Era CC,CAND_0513,2023-01-01,Matched Control,1
+New Era CC,CAND_0513,2023-02-01,CVI,1
+New Era CC,CAND_0513,2023-02-01,Matched Control,3
+New Era CC,CAND_0513,2023-03-01,CVI,4
+New Era CC,CAND_0513,2023-03-01,Matched Control,1
+New Era CC,CAND_0513,2023-04-01,CVI,5
+New Era CC,CAND_0513,2023-04-01,Matched Control,1
+New Era CC,CAND_0513,2023-05-01,CVI,7
+New Era CC,CAND_0513,2023-05-01,Matched Control,1
+New Era CC,CAND_0513,2023-06-01,CVI,6
+New Era CC,CAND_0513,2023-06-01,Matched Control,1
+New Era CC,CAND_0513,2023-07-01,CVI,8
+New Era CC,CAND_0513,2023-07-01,Matched Control,1
+Team Pursuit,CAND_0168,2021-01-01,CVI,8
+Team Pursuit,CAND_0168,2021-01-01,Matched Control,2
+Team Pursuit,CAND_0168,2021-02-01,CVI,4
+Team Pursuit,CAND_0168,2021-02-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-03-01,CVI,5
+Team Pursuit,CAND_0168,2021-03-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-04-01,CVI,3
+Team Pursuit,CAND_0168,2021-04-01,Matched Control,1
+Team Pursuit,CAND_0168,2021-05-01,CVI,9
+Team Pursuit,CAND_0168,2021-05-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-06-01,CVI,11
+Team Pursuit,CAND_0168,2021-06-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-07-01,CVI,9
+Team Pursuit,CAND_0168,2021-07-01,Matched Control,1
+Team Pursuit,CAND_0168,2021-08-01,CVI,9
+Team Pursuit,CAND_0168,2021-08-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-09-01,CVI,10
+Team Pursuit,CAND_0168,2021-09-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-10-01,CVI,8
+Team Pursuit,CAND_0168,2021-10-01,Matched Control,2
+Team Pursuit,CAND_0168,2021-11-01,CVI,13
+Team Pursuit,CAND_0168,2021-11-01,Matched Control,0
+Team Pursuit,CAND_0168,2021-12-01,CVI,8
+Team Pursuit,CAND_0168,2021-12-01,Matched Control,2
+Team Pursuit,CAND_0168,2022-01-01,CVI,2
+Team Pursuit,CAND_0168,2022-01-01,Matched Control,0
+Team Pursuit,CAND_0168,2022-02-01,CVI,2
+Team Pursuit,CAND_0168,2022-02-01,Matched Control,3
+Team Pursuit,CAND_0168,2022-03-01,CVI,6
+Team Pursuit,CAND_0168,2022-03-01,Matched Control,2
+Team Pursuit,CAND_0168,2022-04-01,CVI,7
+Team Pursuit,CAND_0168,2022-04-01,Matched Control,0
+Team Pursuit,CAND_0168,2022-05-01,CVI,11
+Team Pursuit,CAND_0168,2022-05-01,Matched Control,1
+Team Pursuit,CAND_0168,2022-06-01,CVI,3
+Team Pursuit,CAND_0168,2022-06-01,Matched Control,3
+Team Pursuit,CAND_0168,2022-07-01,CVI,13
+Team Pursuit,CAND_0168,2022-07-01,Matched Control,0
+Team Pursuit,CAND_0168,2022-08-01,CVI,10
+Team Pursuit,CAND_0168,2022-08-01,Matched Control,4
+Team Pursuit,CAND_0168,2022-09-01,CVI,4
+Team Pursuit,CAND_0168,2022-09-01,Matched Control,1
+Team Pursuit,CAND_0168,2022-10-01,CVI,12
+Team Pursuit,CAND_0168,2022-10-01,Matched Control,0
+Team Pursuit,CAND_0168,2022-11-01,CVI,2
+Team Pursuit,CAND_0168,2022-11-01,Matched Control,0
+Team Pursuit,CAND_0168,2022-12-01,CVI,10
+Team Pursuit,CAND_0168,2022-12-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-01-01,CVI,6
+Team Pursuit,CAND_0168,2023-01-01,Matched Control,1
+Team Pursuit,CAND_0168,2023-02-01,CVI,1
+Team Pursuit,CAND_0168,2023-02-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-03-01,CVI,1
+Team Pursuit,CAND_0168,2023-03-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-04-01,CVI,6
+Team Pursuit,CAND_0168,2023-04-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-05-01,CVI,10
+Team Pursuit,CAND_0168,2023-05-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-06-01,CVI,11
+Team Pursuit,CAND_0168,2023-06-01,Matched Control,0
+Team Pursuit,CAND_0168,2023-07-01,CVI,6
+Team Pursuit,CAND_0168,2023-07-01,Matched Control,1
