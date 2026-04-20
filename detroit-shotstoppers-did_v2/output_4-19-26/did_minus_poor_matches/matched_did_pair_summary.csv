@@ -1,0 +1,11 @@
+pair_id,pair_cvi_name,zone_type,total_crime,avg_monthly_crime,total_calls,avg_monthly_calls,n_months
+PAIR_01,Detroit 300,CVI,303.5,4.817,1605.0,25.476,63
+PAIR_01,Detroit 300,Control,132.0,2.095,819.0,13.0,63
+PAIR_02,Detroit Friends & Family,CVI,278.5,4.421,2864.5,45.468,63
+PAIR_02,Detroit Friends & Family,Control,72.0,1.143,545.0,8.651,63
+PAIR_03,Detroit Peoples Community,CVI,254.0,4.032,2477.0,39.317,63
+PAIR_03,Detroit Peoples Community,Control,64.0,1.016,401.0,6.365,63
+PAIR_04,Force Detroit,CVI,214.0,3.397,1727.0,27.413,63
+PAIR_04,Force Detroit,Control,89.0,1.413,508.0,8.063,63
+PAIR_06,New Era CC,CVI,299.5,4.754,1623.0,25.762,63
+PAIR_06,New Era CC,Control,98.0,1.556,772.0,12.254,63
